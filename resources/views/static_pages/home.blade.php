@@ -4,13 +4,13 @@
   <div class="jumbotron">
     <h1>Hello Laravel</h1>
     <p class="lead">
-      你现在所看到的是 <a href="https://learnku.com/courses/laravel-essential-training">Laravel 入门教程</a> 的示例项目主页。
+      您現在所看到的 <a href="https://learnku.com/courses/laravel-essential-training">Laravel 入門教學</a> 的示範首頁。
     </p>
     <p>
-      一切，将从这里开始。
+      一切，從這裡開始。
     </p>
     <p>
-      <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
+      <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">頁現在註冊</a>
     </p>
   </div>
 
